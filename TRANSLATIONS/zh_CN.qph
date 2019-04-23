@@ -50,7 +50,7 @@
 </phrase>
 <phrase>
     <source>Avatar</source>
-    <target>阿凡达</target>
+    <target>化身</target>
 </phrase>
 <phrase>
     <source>Used libraries</source>
@@ -78,7 +78,7 @@
 </phrase>
 <phrase>
     <source>Scanned:</source>
-    <target>已扫描:</target>
+    <target>已扫描：</target>
 </phrase>
 <phrase>
     <source>Subdirectories</source>
@@ -126,7 +126,7 @@
 </phrase>
 <phrase>
     <source>Number of scanned files</source>
-    <target>扫面的文件数</target>
+    <target>扫描的文件数</target>
 </phrase>
 <phrase>
     <source>Scan time</source>
@@ -230,11 +230,11 @@
 </phrase>
 <phrase>
     <source>File offset of %1</source>
-    <target>文件偏移量 %1</target>
+    <target>%1 的文件偏移量</target>
 </phrase>
 <phrase>
     <source>Size of %1 in bytes</source>
-    <target>%1 字节大小</target>
+    <target>以字节计的 %1 大小</target>
 </phrase>
 <phrase>
     <source>Header</source>
@@ -382,7 +382,7 @@
 </phrase>
 <phrase>
     <source>Bytes in file</source>
-    <target>文件字节大小:</target>
+    <target>文件字节大小</target>
 </phrase>
 <phrase>
     <source>packed</source>
@@ -406,11 +406,11 @@
 </phrase>
 <phrase>
     <source>Values as HEX</source>
-    <target>值为十六进制</target>
+    <target>以十六进制计的值</target>
 </phrase>
 <phrase>
     <source>Base address:</source>
-    <target>基址:</target>
+    <target>基址：</target>
 </phrase>
 <phrase>
     <source>File offset:</source>
@@ -526,7 +526,7 @@
 </phrase>
 <phrase>
     <source>Cannot save file: %1</source>
-    <target>无法保存文件: %1</target>
+    <target>无法保存文件：%1</target>
 </phrase>
 <phrase>
     <source>Options</source>
@@ -598,7 +598,7 @@
 </phrase>
 <phrase>
     <source>Scan overlay</source>
-    <target>扫描overlay</target>
+    <target>扫描 overlay</target>
 </phrase>
 <phrase>
     <source>Show scan time</source>
@@ -626,15 +626,15 @@
 </phrase>
 <phrase>
     <source>Codec:</source>
-    <target>编码格式:</target>
+    <target>编码格式：</target>
 </phrase>
 <phrase>
     <source>Language:</source>
-    <target>语言:</target>
+    <target>语言：</target>
 </phrase>
 <phrase>
     <source>Font</source>
-    <target>自定义字体</target>
+    <target>字体</target>
 </phrase>
 <phrase>
     <source>Resizeable main window</source>
@@ -670,7 +670,7 @@
 </phrase>
 <phrase>
     <source>Need to restart application!</source>
-    <target>需要重启应用程序!</target>
+    <target>需要重启应用程序！</target>
 </phrase>
 <phrase>
     <source>Register error</source>
@@ -679,12 +679,14 @@
 <phrase>
     <source>Cannot register %1 extension.
 Need administrator privileges</source>
-    <target>无法注册 %1 扩展名。需要管理员权限才可执行操作。</target>
+    <target>无法注册 %1 扩展名。
+需要管理员权限才可执行操作。</target>
 </phrase>
 <phrase>
     <source>Cannot unregister %1 extension.
 Need administrator privileges</source>
-    <target>无法注销 %1 扩展名。需要管理员权限才可执行操作。</target>
+    <target>无法注销 %1 扩展名。
+需要管理员权限才可执行操作。</target>
 </phrase>
 <phrase>
     <source>Show compiler/linker/packer/protector options</source>
@@ -980,7 +982,7 @@ Need administrator privileges</source>
 </phrase>
 <phrase>
     <source>Aggressively trim working set</source>
-    <target>积极修正工作集</target>
+    <target>积极释放工作集内存</target>
 </phrase>
 <phrase>
     <source>Relocation info stripped from file</source>
